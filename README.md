@@ -1,5 +1,10 @@
 # SoftwareSecurity2020
 Assignments related to the software security module
+-------------------------------------------------------------------------------
+For the PROJECT FILE  please visit the following link (It is more than 25mb) :
+https://drive.google.com/open?id=1e2dhlBngLz2JtJt14rGaznjN70f7q0FV
+-------------------------------------------------------------------------------
+
 		--------------------------------------------------
 		GDApp - Google API V3 - Resource Aggregation App 
 		--------------------------------------------------
