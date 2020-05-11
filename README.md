@@ -6,7 +6,7 @@ https://drive.google.com/open?id=1e2dhlBngLz2JtJt14rGaznjN70f7q0FV
 -------------------------------------------------------------------------------
 
 		--------------------------------------------------
-		GDApp - Google API V3 - Resource Aggregation App 
+		GAppv3 - Google API V3 - Resource Aggregation App 
 		--------------------------------------------------
 
 1. Save the authorization_token.json Client ID in D:\
